@@ -1,0 +1,58 @@
+ 
+ 
+ 
+ .header{
+    background-color: rgba(0, 0, 0, 0.89);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    padding: 10px 0px 0px 10px;   
+    margin-bottom: 50px;
+    display: flex;
+ }
+ 
+ /* html horarios*/
+.tabla{
+    background-color: rgb(136, 191, 241);
+}
+
+.titulo-tabla{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-align: center;
+}
+    
+.dias{
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(209, 84, 11);}
+
+.hora{
+    font-style: italic;
+    color: rgb(209, 84, 11);}
+
+
+      /*estilo body*/
+body{ 
+    background-color:whitesmoke
+}
+
+/*html contacto*/
+
+.formulario{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    margin: 5px;
+}
+.datos{
+    border-width: 25px;
+    border-color: black;
+}
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 20px 20px 20px;
+    margin-top: 10px;
+}
